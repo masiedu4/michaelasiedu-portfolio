@@ -112,7 +112,7 @@ While we may not be able to control the events themselves, we do have the power 
 
 Vincent Van Gogh found a way to channel his emotions and his inner turmoil into his work
 
-## When life presents curveballs, we can choose to let them defeat us, or we can choose to find a way to channel our emotions and our struggles into something positive.
+When life presents curveballs, we can choose to let them defeat us, or we can choose to find a way to channel our emotions and our struggles into something positive.
 
 There is one lesson that stood up to me and it is that true success is not always measured by material wealth or fame, but by the impact, we leave on others and the legacy we leave behind.
 
