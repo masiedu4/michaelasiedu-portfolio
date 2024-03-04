@@ -3,34 +3,29 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My name is Michael Asiedu. I'm fit and Christian.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I'm currently a Developer Advocate for [the Cartesi Project](https://cartesi.io).
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+My biggest dream since I was 12 is to become a father.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Most of my time is spent leading documentation around the Cartesi project and lifting weights. One colleague once called me _"doc lord,"_ and I loved it.
 
-## Tech Stack
+My biggest strength as a software engineer is to tinker with something entirely new and obscure, comprehend and write about it in a way an 8th grader will assimilate, and make it known.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## Interests
 
-## Features
+My favorite programming languages are Rust, Python and JavaScript, and I've been building software since I was 18.
 
-Here are certain features of this site.
+I'm learning video making and cinematography, a passion I will profoundly pursue in the next few years.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Courses
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+My team recently launched a free 1.5-hour course to help developers build computationally extensive dApps on Cartesi.
+
+Check it out [here](https://www.udemy.com/course/the-cartesi-dapp-developer-masterclass).
+
+<video width="100%" controls poster="../assets/images/coverimage.jpg">
+    <source src="../assets/videos/academy.MP4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
