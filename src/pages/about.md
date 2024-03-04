@@ -11,7 +11,7 @@ My biggest dream since I was 12 is to become a father.
 
 Most of my time is spent leading documentation around the Cartesi project and lifting weights. One colleague once called me _"doc lord,"_ and I loved it.
 
-My biggest strength as a software engineer is to find something entirely unique and obscure, comprehend and write about it in a way an 8th grader will assimilate, and make it known.
+My biggest strength as a software engineer is to find something entirely unique and obscure, comprehend and write about it in a way that will make sense to an 8th grader. I've been doing this for the past 3 years.
 
 ## Interests
 
