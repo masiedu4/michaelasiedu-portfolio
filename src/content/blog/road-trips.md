@@ -7,5 +7,5 @@ featured: false
 draft: false
 tags:
   - Dad
-description: "How Vincent van Gogh Died Broke and Unrecognized"
+description: "We drive for hours and talk about everything under the sun."
 ---
