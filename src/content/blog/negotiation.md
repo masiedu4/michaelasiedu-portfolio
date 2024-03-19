@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - faith
-description: "where faith and humility intertwine to forge paths of spiritual transformation and victory."
+description: "Where faith and humility intertwine to forge paths of spiritual transformation and victory."
 ---
 
 Negotiating isn’t just about reaching a compromise; it’s about engaging in a deeply personal, often transformative, conversation with the divine.
