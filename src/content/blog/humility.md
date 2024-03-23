@@ -58,29 +58,29 @@ Divine blessings are intricately tied to humility. Throughout the Bible, humilit
 - **John the Baptist** - `John 3:30`: John humbly recognized his role with Jesus, saying, `He must become greater and greater; I must become less and less.`
 - **The Centurion** - `Matthew 8:5-13`: Jesus commended the Centurion for his profound faith and humility, declaring, `Truly I tell you, I have not found anyone in Israel with such great faith.`
 
-In numerous instances, God interacts with proud and egotistical individuals to caution and chasten them.
+In numerous instances, God interacts with proud and egotistical individuals to chasten them.
 
-In the book of Exodus, Pharaoh's arrogance and obstinacy led to his downfall as he refused to release the Israelites despite the plagues wrought by God through Moses `(Exodus 5-14)`.
+In the book of Exodus, Pharaoh's obstinacy led to his downfall as he refused to release the Israelites despite the plagues wrought by God through Moses `(Exodus 5-14)`.
 
-Similarly, Nebuchadnezzar endured a period of madness as punishment for his pride and haughtiness `(Daniel 4)`. Through God’s intervention, he acknowledged divine sovereignty, leading to his restoration.
+Similarly, Nebuchadnezzar endured a period of madness as punishment for his haughtiness `(Daniel 4)`. Through God’s intervention, he acknowledged divine sovereignty, leading to his restoration.
 
 King Herod Agrippa I, praised by his subjects as a god, faced swift divine retribution in Acts 12:21-23. He perished because he failed to give glory to God.
 
-These instances illustrate that while God may engage with proud individuals, it is often to correct, judge, or impart a lesson in humility rather than to bestow blessings.
+While God may engage with proud individuals, it is often to impart a lesson in humility rather than to bestow blessings.
 
 ## What I intend to do(you can too):
 
 ### 1. Self-awareness
 
-A practical application is regularly reflecting on your thoughts and actions. Ask for feedback from friends, mentors, or colleagues.
+A practical application is regularly reflecting on your thoughts and actions. Ask for feedback from friends.
 
-Recognize the insidious nature of ego and its potential to hinder personal and professional growth.
+Recognize the insidious nature of ego and its potential to hinder growth.
 
 > Proverbs 11:2 advises that pride leads to disgrace, but humility brings wisdom.
 
 ### 2. Embrace a Servant Mindset
 
-Seek opportunities to help and support others. Listen actively, offer assistance without expecting recognition, and prioritize collaboration over personal glory.
+Seek opportunities to help others. Listen actively, offer assistance without expecting recognition.
 
 Understand and love that you are stupid, you know nothing, and that’s okay. Shift focus from self-promotion to serving others. True greatness comes from humility and service.
 
@@ -88,15 +88,15 @@ Understand and love that you are stupid, you know nothing, and that’s okay. Sh
 
 ### 3. Gratitude and Contentment
 
-Acknowledge the blessings in your life, both big and small. Gratitude counteracts the sense of entitlement and dissatisfaction that often accompanies ego-driven desires.
+Acknowledge the blessings in your life, both big and small. Gratitude counteracts the sense of entitlement that often accompanies ego-driven desires.
 
-This may sound cliche, but it is timeless advice: `Avoid comparing yourself to others and focus on being content with what you have rather than constantly striving for more.` Know when enough is enough and when to stop.
+This may sound cliche, but it is timeless advice: `Avoid comparing yourself to others and focus on being content with what you have rather than constantly striving for more.` Know when enough is enough.
 
 > 1 Thessalonians 5:18 encourages giving thanks in all circumstances, recognizing blessings as gifts from God.
 
 ### 4. Surrender to God's Will
 
-Know the limits of your understanding and seek guidance from mentors, wise counsel, and, for believers, God.
+Know the limits of your understanding and seek wise counsel.
 
 Surrender your desires to align with God's will in all aspects of your life.
 
