@@ -20,7 +20,7 @@ On a high-temperature night on 22nd March 2024, a profound level of introspectio
 
 The vices are uncountable— from making horrible purchasing decisions to being lukewarm with my relationship with God and compromising some crucial relationships in my life because I couldn’t keep my ego(tongue) in check.
 
-One of my most significant flaws is prioritizing my skills and abilities and seeing people with less capacity than me as lazy or lost. The dire need to prove myself has made me averse to asking for help.
+One of my most significant flaws is prioritizing my abilities and seeing people with less capacity than me as lazy or lost. The dire need to prove myself has made me averse to asking for help.
 
 It is okay to be stupid and ask for help, but I have "a big head.”
 
@@ -82,13 +82,13 @@ Recognize the insidious nature of ego and its potential to hinder personal and p
 
 Seek opportunities to help and support others. Listen actively, offer assistance without expecting recognition, and prioritize collaboration over personal glory.
 
-Understand and love that you are stupid, you know nothing, and that’s okay. Shift focus from self-promotion to serving others, recognizing that true greatness comes from humility and service.
+Understand and love that you are stupid, you know nothing, and that’s okay. Shift focus from self-promotion to serving others. True greatness comes from humility and service.
 
 > Philippians 2:3- 4 encourages humility and considers others' interests more significant than yours.
 
 ### 3. Gratitude and Contentment
 
-Acknowledge and appreciate the blessings in your life, both big and small. Gratitude counteracts the sense of entitlement and dissatisfaction that often accompanies ego-driven desires.
+Acknowledge the blessings in your life, both big and small. Gratitude counteracts the sense of entitlement and dissatisfaction that often accompanies ego-driven desires.
 
 This may sound cliche, but it is timeless advice: `Avoid comparing yourself to others and focus on being content with what you have rather than constantly striving for more.` Know when enough is enough and when to stop.
 
@@ -98,7 +98,7 @@ This may sound cliche, but it is timeless advice: `Avoid comparing yourself to o
 
 Know the limits of your understanding and seek guidance from mentors, wise counsel, and, for believers, God.
 
-Surrender your desires and plans to align with God's will in all aspects of your life.
+Surrender your desires to align with God's will in all aspects of your life.
 
 > James 4:10 advises humbling oneself before the Lord, acknowledging God's sovereignty, and seeking His will.
 
