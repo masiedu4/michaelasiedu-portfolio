@@ -9,7 +9,7 @@ tags:
   - ego
   - pride
   - humility
-description: "Timeless wisdom of the Bible the to suppress our ego."
+description: "Biblical approach to Humility."
 ---
 
 On a high-temperature night on 22nd March 2024, a profound level of introspection brought about two questions— one I could confidently answer and the other that caused me to panic.
