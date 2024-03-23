@@ -72,7 +72,7 @@ These instances illustrate that while God may engage with proud individuals, it 
 
 ### 1. Self-awareness
 
-A practical application is regularly reflecting on your thoughts, actions, and motivations. Ask for feedback from trusted friends, mentors, or colleagues to gain insight into areas where your ego may impact your relationships and career.
+A practical application is regularly reflecting on your thoughts and actions. Ask for feedback from friends, mentors, or colleagues.
 
 Recognize the insidious nature of ego and its potential to hinder personal and professional growth.
 
@@ -80,7 +80,7 @@ Recognize the insidious nature of ego and its potential to hinder personal and p
 
 ### 2. Embrace a Servant Mindset
 
-Seek opportunities to help and support others in your relationships and career. Listen actively, offer assistance without expecting recognition, and prioritize collaboration over personal glory.
+Seek opportunities to help and support others. Listen actively, offer assistance without expecting recognition, and prioritize collaboration over personal glory.
 
 Understand and love that you are stupid, you know nothing, and that’s okay. Shift focus from self-promotion to serving others, recognizing that true greatness comes from humility and service.
 
@@ -96,10 +96,10 @@ This may sound cliche, but it is timeless advice: `Avoid comparing yourself to o
 
 ### 4. Surrender to God's Will
 
-Recognize the limits of your understanding and seek guidance from mentors, wise counsel, and, for believers, God.
+Know the limits of your understanding and seek guidance from mentors, wise counsel, and, for believers, God.
 
-Be open to divine direction and willing to surrender your desires and plans to align with God's will in your relationships, career, and all aspects of life.
+Surrender your desires and plans to align with God's will in all aspects of your life.
 
 > James 4:10 advises humbling oneself before the Lord, acknowledging God's sovereignty, and seeking His will.
 
-Pride is the devil; ego is the enemy. Shalom!
+Shalom!
