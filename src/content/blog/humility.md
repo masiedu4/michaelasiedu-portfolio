@@ -34,9 +34,9 @@ Just when I was about to smile and thank God that I’m not as egotistic as I th
 
 > Ego often operates subtly, leading individuals to believe they are immune to its effects or have transcended it. This false sense of superiority or immunity from ego blinds individuals to their faults and impedes their growth.
 
-I promptly googled for prayers and biblical references to humility. To my surprise, I realized that pride, ego, and humility are profoundly documented topics in the Bible.
+I promptly googled for prayers and biblical references to humility.
 
-One story that captured my interest recounts the encounter between Jesus and a Centurion seeking healing for his ailing servant (Matthew 8:5-13). Remarkably, the Centurion displayed extraordinary humility(and faith), insisting that Jesus need not physically enter his home to perform the miracle; a mere word from Jesus would suffice. Jesus, recognizing the Centurion's faith and humility, declared, `Truly I tell you, I have not found anyone in Israel with such great faith.`
+One beautiful story recounts the encounter between Jesus and a Centurion seeking healing for his ailing servant (Matthew 8:5-13). Remarkably, the Centurion displayed extraordinary humility(and faith), insisting that Jesus need not physically enter his home to perform the miracle; a mere word from Jesus would suffice. Jesus, recognizing the Centurion's faith and humility said, `Truly I tell you, I have not found anyone in Israel with such great faith.`
 
 **Can you now recognize the intimate link between Faith and Humility?**
 
