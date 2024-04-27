@@ -84,7 +84,7 @@ It was a surreal experience. Rocking my native Ghanaian Kaftan and Topanga shoes
 
 On the night of my birthday, we were at Thalassa, a beach restaurant with a great view. I didn’t particularly enjoy the food, but that night was the highlight and undoubtedly the best moment in Goa.
 
-Some minutes after the birthday pleasantries, two local ladies approached me, complimented me, and asked me to dance with them. Well, for context, a local confirmed that it is rare for Indian women to make the first move like that. That sounds like I’ve been doing something right, right? :)
+Some minutes after the birthday pleasantries, two local ladies approached me, complimented me, and asked me to dance with them. Well, for context, a local confirmed that it is rare for Indian women to make the first move like that. That sounds like I’ve been doing something right, right?
 
 ![img](../../assets/images/birthday.jpg)
 
