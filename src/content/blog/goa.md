@@ -58,7 +58,7 @@ I walked up to her souvenir shop, gave some greetings, and introduced myself aft
 
 However, a local would buy it for much cheaper. My point is that there is an unmatched level of earnestness. People mean business here.
 
-I got to try the **Zomata** app for the first time. For context, Zomata is a restaurant aggregator and food-delivery app. The quality, intuitive UX, delivery speed, and everything else were the best I’ve ever experienced.
+I got to try the **Zomato** app for the first time. For context, Zomato is a restaurant aggregator and food-delivery app. The quality, intuitive UX, delivery speed, and everything else were the best I’ve ever experienced.
 
 But Zomato wasn’t close as impressive as its counterpart, **Blinkit**. With Blinkit, you can order some high-quality stuff you need in your everyday life, ranging from gum, groceries, fresh fruits and vegetables, biotin, first aid kit, painkillers, condoms to electronics like adapters, HDMIs, karaoke kit, mouse, you name it, and receive it in less than 10 minutes. Yes, it’s not a joke.
 
