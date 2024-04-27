@@ -1,4 +1,5 @@
- ---
+
+---
 title: A Blueprint for Humili
 author: Michael Asiedu
 pubDatetime: 2024-03-23T12:12:51Z
