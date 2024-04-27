@@ -54,7 +54,7 @@ Along the shores of Baga Beach, I will never forget Sunita’s face and smile.
 
 I walked up to her souvenir shop, gave some greetings, and introduced myself after confirming that she spoke English. She immediately introduced herself, stretched her arms, and gave me a firm handshake. After a short negotiation, she sold the bodybag to me for 500 INR.
 
-![img](../../assets/images/sunita.jpg)
+![img](../../assets/images/s.jpg)
 
 However, a local would buy it for much cheaper. My point is that there is an unmatched level of earnestness. People mean business here.
 
@@ -78,7 +78,7 @@ When the clock struck, it was 12 a.m., and I was a year older. We hung around at
 
 It was a surreal experience. Rocking my native Ghanaian Kaftan and Topanga shoes, I looked like the obvious outlier, and everyone was super friendly to me.
 
-![img](../../assets/images/deltin.jpg)
+![img](../../assets/images/casino.jpg)
 
 ## The Birthday
 
@@ -86,7 +86,7 @@ On the night of my birthday, we were at Thalassa, a beach restaurant with a grea
 
 Some minutes after the birthday pleasantries, two local ladies approached me, complimented me, and asked me to dance with them. Well, for context, a local confirmed that it is rare for Indian women to make the first move like that. That sounds like I’ve been doing something right, right? :)
 
-![img](../../assets/images/birthday.jpg)
+![img](../../assets/images/michael.jpg)
 
 ## Hats off to India
 
