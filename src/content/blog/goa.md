@@ -1,6 +1,5 @@
-
 ---
-title: A Blueprint for Humili
+title: A Blueprint for Humility
 author: Michael Asiedu
 pubDatetime: 2024-03-23T12:12:51Z
 slug: a-blueprint-for-humili
