@@ -9,7 +9,7 @@ tags:
   - cartesi
   - testnet
   - erc20
-description: "Test your dApps on localhost"
+description: "Test your ERC20 tokens on localhost"
 ---
 
 This guide will walk you through the process of deploying an ERC20 token on a local blockchain using Remix IDE and adding it to MetaMask for testing purposes.
